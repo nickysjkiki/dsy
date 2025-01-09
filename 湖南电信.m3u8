@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,湖南卫视
+http://175.10.230.91:8081/tsfile/live/0017_1.m3u8
+#EXTM3U
+#EXTINF:-1,湖南都市http://175.10.230.91:8081/tsfile/live/0018_1.m3u8
+#EXTM3U
+#EXTINF:-1,湖南电影http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
+#EXTM3U
+#EXTINF:-1,湖南国际http://175.10.230.91:8081/tsfile/live/1001_1.m3u8
+#EXTM3U
+#EXTINF:-1,湖南娱乐http://175.10.230.91:8081/tsfile/live/1000_1.m3u8
+#EXTM3U
+#EXTINF:-1,金鹰卡通http://175.10.230.91:8081/tsfile/live/1002_1.m3u8
